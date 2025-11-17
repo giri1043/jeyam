@@ -12,6 +12,19 @@ A modern web application built with TypeScript, Tailwind CSS, and Vite — this 
 
 ## 📁 Project structure
 
+├─ public/ # Static assets served directly
+├─ src/ # Application source code
+│ ├─ main.ts # Entry point
+│ ├─ components/ # Reusable UI components
+│ └─ … # Additional source folders such as styles, utils, etc
+├─ index.html # App shell
+├─ package.json # Project metadata & dependencies
+├─ tsconfig.json # TypeScript configuration
+├─ tailwind.config.ts # Tailwind CSS configuration
+├─ vite.config.ts # Vite configuration
+└─ README.md # This file
+## Run comment
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/giri1043/jeyam.git
@@ -28,3 +41,4 @@ npm run build
 Preview the production build locally:
 
 npm run preview
+
