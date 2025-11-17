@@ -15,3 +15,17 @@ Preview the production build locally:
 
 npm run preview
 
+
+# jeyam
+
+A modern web application built with TypeScript, Tailwind CSS, and Vite — this project aims to provide a clean, performant, and maintainable front-end foundation.
+
+## 🚀 Features
+
+- Built using **TypeScript** for strong typing and improved developer experience.  
+- Styled with **Tailwind CSS** for utility-first, responsive design.  
+- Bundled and served via **Vite** — fast development server and optimized production builds.  
+- Structured project with best practices (separate config files, linting, etc).  
+- Easily extendable for further components, pages, and integrations.
+
+## 📁 Project structure
